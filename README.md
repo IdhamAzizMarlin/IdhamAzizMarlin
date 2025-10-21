@@ -77,7 +77,6 @@
 ## 📉 **My Github Statistics**
 
 ![Idham's GitHub stats](https://github-readme-stats.vercel.app/api?username=IdhamAzizMarlin&hide=contribs,prs)
-[![GitLab](https://img.shields.io/badge/GitLab-Profile-orange?logo=gitlab)](https://gitlab.com/IdhamAzizMarlin)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IdhamAzizMarlin&layout=compact)
 
 ![](https://komarev.com/ghpvc/?username=IdhamAzizMarlin)
