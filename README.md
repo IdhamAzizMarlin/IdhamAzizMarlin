@@ -56,7 +56,7 @@ I love crafting **clean, scalable, and efficient systems**, exploring modern tec
 **Full Stack Programmer — PT. Lawang Berkah Abadi (Feb 2022 - Present)**  
 Develop SIMRS Application and Monitoring Evaluation (MONEV)
 
-**Backend Engineer — JTILAB (Jan 2024 - Now)**  
+**Backend Engineer — JTILAB (Jan 2024 - Jan 2025)**  
 Develop RESTful API for laundry management application. (YULO)
 
 **Programmer — PT. Trijaya Mitra Makmur (Aug 2019 - Aug 2020)**  
