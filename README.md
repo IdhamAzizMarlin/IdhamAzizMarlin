@@ -23,6 +23,22 @@ I love crafting **clean, scalable, and efficient systems**, exploring modern tec
 
 ---
 
+### 🚧 Currently Working On
+
+- 🏥 **SIMRS (Hospital Information System)**  
+  Developing an integrated system for hospital management including patient, billing, and reporting modules.  
+  **Tech:** CodeIgniter 4 · JavaScript · MySQL · MongoDB · Redis
+
+- 📊 **Monitoring & Evaluation System for Bappeda**  
+  Building a government monitoring and evaluation platform for strategic project tracking.  
+  **Tech:** Laravel · JavaScript · MySQL
+
+- 🛒 **E-Commerce Platform**  
+  Creating a modular online store with real-time stock and transaction management.  
+  **Tech:** Laravel · React.js · TypeScript · MySql
+
+---
+
 ### 🧠 Tech Stack
 
 #### 🖥️ Backend
